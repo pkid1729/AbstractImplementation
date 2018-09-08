@@ -1,0 +1,10 @@
+F:\ZPractice\AbstracImplimentation\obj\Debug\netcoreapp2.0\AbstracImplimentation.csproj.CoreCompileInputs.cache
+F:\ZPractice\AbstracImplimentation\obj\Debug\netcoreapp2.0\AbstracImplimentation.AssemblyInfoInputs.cache
+F:\ZPractice\AbstracImplimentation\obj\Debug\netcoreapp2.0\AbstracImplimentation.AssemblyInfo.cs
+F:\ZPractice\AbstracImplimentation\bin\Debug\netcoreapp2.0\AbstracImplimentation.deps.json
+F:\ZPractice\AbstracImplimentation\bin\Debug\netcoreapp2.0\AbstracImplimentation.runtimeconfig.json
+F:\ZPractice\AbstracImplimentation\bin\Debug\netcoreapp2.0\AbstracImplimentation.runtimeconfig.dev.json
+F:\ZPractice\AbstracImplimentation\bin\Debug\netcoreapp2.0\AbstracImplimentation.dll
+F:\ZPractice\AbstracImplimentation\bin\Debug\netcoreapp2.0\AbstracImplimentation.pdb
+F:\ZPractice\AbstracImplimentation\obj\Debug\netcoreapp2.0\AbstracImplimentation.dll
+F:\ZPractice\AbstracImplimentation\obj\Debug\netcoreapp2.0\AbstracImplimentation.pdb
